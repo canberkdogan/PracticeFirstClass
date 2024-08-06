@@ -25,9 +25,9 @@ public class Program
 
         Person ogretmen = new Person();
 
-        ogretmen.Name = "Carl";
+        ogretmen.Name = "Furkan";
 
-        ogretmen.Surname = "Johnson";
+        ogretmen.Surname = "Coşkun";
 
         ogretmen.BirthDate = new DateTime(1986, 10, 06);  
 
